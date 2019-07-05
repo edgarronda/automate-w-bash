@@ -10,9 +10,9 @@ cd "C:\Users\eronda\AppData\Roaming\Spotify"
 start Spotify.exe
 
 E:
-cd "E:\Dev\MI\Remotes"
+cd "C:\Users\eguadalupe\Documents\DEV"
 start  "" "%SYSTEMDRIVE%\Program Files\Git\git-bash.exe" 
 
-start %SystemRoot%\explorer.exe "E:\Dev\MI"
+start %SystemRoot%\explorer.exe "C:\Users\eguadalupe\Documents\DEV"
 
 exit
